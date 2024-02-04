@@ -1,4 +1,4 @@
-# Decenralized G-Drive3.0
+# Decentralized G-Drive3.0
 
 
 In wrapping up, our project for decentralized image sharing is a big step forward. 

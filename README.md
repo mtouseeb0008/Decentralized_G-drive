@@ -99,6 +99,7 @@ These steps will ensure smooth navigation and utilization of the system while ma
 - IPFS : Decentralized storage protocol for hosting uploaded images.
 - Axios : Used as Pinning Service For Pinata
 - Hardhat : Development and Deployment tool
+- MetaMask(wallet) : For User Authentication
 
 
 # After setup all the environment then :

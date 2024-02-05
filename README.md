@@ -111,12 +111,12 @@ These steps will ensure smooth navigation and utilization of the system while ma
 
 # Some Screenshot 
 
-  #User Login With Metamask
+  #User Login via Metamask
    
 ![Screenshot (90)](https://github.com/mtouseeb0008/Decentralized_G-drive/assets/90579981/ff52efe3-8760-4136-8e87-ec5e896dd154)
 
    #Dislay Image 
-     - Not See the Image Beacuse Pinata have to Closed Public Gateway
+     - Not See the Image Beacuse Pinata have to Closed Public Gateway. You can see the image when you have to click on  alt text(see_img).
    
 ![Screenshot (88)](https://github.com/mtouseeb0008/Decentralized_G-drive/assets/90579981/0f523a29-fe9a-4811-a841-a523444d874d)
 

@@ -1,4 +1,4 @@
-# Decentralized G-Drive Web3.O
+# Decentralized G-Drive Web3.0
 
 
 In wrapping up, our project for decentralized image sharing is a big step forward. 
